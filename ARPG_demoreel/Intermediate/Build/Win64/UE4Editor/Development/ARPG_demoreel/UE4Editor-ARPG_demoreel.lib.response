@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ARPG_demoreel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreel.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelCharacter.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelGameMode.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelPlayerController.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreel.init.gen.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelCharacter.gen.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelGameMode.gen.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\PCLaunch.rc.res"
+/OUT:"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\UE4Editor-ARPG_demoreel.lib"

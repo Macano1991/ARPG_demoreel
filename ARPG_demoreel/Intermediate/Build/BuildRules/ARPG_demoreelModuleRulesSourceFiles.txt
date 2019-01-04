@@ -1,0 +1,3 @@
+D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Source\ARPG_demoreel\ARPG_demoreel.Build.cs
+D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Source\ARPG_demoreel.Target.cs
+D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Source\ARPG_demoreelEditor.Target.cs
