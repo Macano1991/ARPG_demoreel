@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ARPG_demoreel.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{44128247-814F-43C6-8A39-877ACCEA7ACF}</UniqueIdentifier>
+      <UniqueIdentifier>{8EF7024E-3F8D-493E-879F-C90AF28CAEDB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ARPG_demoreel.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F3832845-6FE1-4293-A82A-DE8F74832A49}</UniqueIdentifier>
+      <UniqueIdentifier>{D4E9EFCA-19A2-4899-9D24-BBF3B9161BC9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ARPG_demoreel">
-      <UniqueIdentifier>{669649C9-CB63-4E9B-AB0F-3677ED5C25C8}</UniqueIdentifier>
+      <UniqueIdentifier>{4C19F337-8E96-4FE8-A3AC-011EB48B1DCF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ARPG_demoreel\ARPG_demoreel.Build.cs">
       <Filter>Source\ARPG_demoreel</Filter>

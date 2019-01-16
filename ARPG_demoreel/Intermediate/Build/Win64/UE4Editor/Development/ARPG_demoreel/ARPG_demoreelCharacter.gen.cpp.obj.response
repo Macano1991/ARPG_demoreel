@@ -24,9 +24,9 @@
 /wd4838
 /we4668
 /I .
-/I "D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Inc\ARPG_demoreel"
-/I "D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Source"
-/I "D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Source\ARPG_demoreel"
+/I F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Inc\ARPG_demoreel
+/I F:\GitHub\ARPG_demoreel\ARPG_demoreel\Source
+/I F:\GitHub\ARPG_demoreel\ARPG_demoreel\Source\ARPG_demoreel
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -417,16 +417,16 @@
 /I ThirdParty\libSampleRate
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Inc\ARPG_demoreel\ARPG_demoreelCharacter.gen.cpp"
-/FI"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\Definitions.ARPG_demoreel.h"
-/Fo"D:\Unreal Projects\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelCharacter.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Inc\ARPG_demoreel\ARPG_demoreelCharacter.gen.cpp"
+/FI"F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\Definitions.ARPG_demoreel.h"
+/Fo"F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\ARPG_demoreelCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
