@@ -1,0 +1,24 @@
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build (F:\GitHub\ARPG_demoreel).
+  Creating makefile for ARPG_demoreelEditor (no existing makefile)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for ARPG_demoreelEditor
+    Running UnrealHeaderTool "F:\GitHub\ARPG_demoreel\ARPG_demoreel\ARPG_demoreel.uproject" "F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\ARPG_demoreelEditor\Development\ARPG_demoreelEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ARPG_demoreelEditor in 9,5402917 seconds
+  Building 12 actions with 8 processes...
+    [1/12] PCLaunch.rc
+    [2/12] SharedPCH.Engine.cpp
+    [3/12] ARPG_demoreel.cpp
+    [4/12] ARPG_demoreelPlayerController.gen.cpp
+    [5/12] ARPG_demoreelGameMode.gen.cpp
+    [6/12] ARPG_demoreel.init.gen.cpp
+    [7/12] ARPG_demoreelCharacter.gen.cpp
+    [8/12] ARPG_demoreelGameMode.cpp
+    [9/12] ARPG_demoreelPlayerController.cpp
+    [10/12] ARPG_demoreelCharacter.cpp
+    [11/12] UE4Editor-ARPG_demoreel.lib
+       Creating library F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\UE4Editor-ARPG_demoreel.lib and object F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\UE4Editor-ARPG_demoreel.exp
+    [12/12] UE4Editor-ARPG_demoreel.dll
+       Creating library F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\UE4Editor-ARPG_demoreel.suppressed.lib and object F:\GitHub\ARPG_demoreel\ARPG_demoreel\Intermediate\Build\Win64\UE4Editor\Development\ARPG_demoreel\UE4Editor-ARPG_demoreel.suppressed.exp
+  Deploying ARPG_demoreelEditor Win64 Development...
+  Total build time: 48,79 seconds (Parallel executor: 32,86 seconds)
